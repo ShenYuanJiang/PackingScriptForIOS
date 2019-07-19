@@ -1,2 +1,2 @@
 # PackingScriptForIOS
-ios 打包脚本
+ios 打包 shell脚本

@@ -1,4 +1,5 @@
 # PackingScriptForIOS
+<<<<<<< HEAD
 ios 打包脚本
 Shell打包脚本实现了如下功能
 
@@ -464,3 +465,6 @@ https://github.com/bestjiangbeatyou/PackingScriptForIOS/blob/master/iamges/14299
 
 
 https://github.com/bestjiangbeatyou/PackingScriptForIOS/blob/master/iamges/1429982-98a992b7ffba67d7.png
+=======
+ios 打包 shell脚本
+>>>>>>> ea7ce41a73eb4f6c50eebaf4929b25e04c20ce5f
